@@ -10,6 +10,10 @@
 3. [pcs_piop](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/3.pcs_piop_%E4%B8%AD%E6%96%87.md)
 4. [crs_src](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/4.crs_srs_%E4%B8%AD%E6%96%87.md)
 
+
+# tips
+I just find a zk job, if you can provide a job for me, please contact me at 12210240100@fudan.edu.cn or [linkedin](https://www.linkedin.com/in/%E9%A2%96%E5%85%B0-%E7%94%B0-664433342/).
+
 # self-introduction
 I am an experienced software engineer with 10 years of professional experience, including 3+ years specializing in zero-knowledge proof (ZK) systems, and I am excited to explore opportunities where I can contribute my expertise to cutting-edge privacy and security solutions.
 
@@ -35,4 +39,4 @@ Problem-Solving Mindset: Skilled at debugging complex ZK circuits and optimizing
 
 Passion for Privacy: Deeply committed to advancing privacy-preserving technologies and their applications in DeFi, Web3, and data security.
 
-I would welcome the opportunity to discuss how my skills and experience align with your team’s goals. Please feel free to reach out to me at 12210240100@fudan.edu.cn or https://www.linkedin.com/in/%E9%A2%96%E5%85%B0-%E7%94%B0-664433342/.
+I would welcome the opportunity to discuss how my skills and experience align with your team’s goals. Please feel free to reach out to me at 12210240100@fudan.edu.cn or [linkedin](https://www.linkedin.com/in/%E9%A2%96%E5%85%B0-%E7%94%B0-664433342/).
