@@ -1,5 +1,9 @@
 # zero_knowledge_interview
+1. basic_concepts（url:https://github.com/tianyinglan/zero_knowledge_interview/blob/main/1.basic_concepts.md）
 
+
+# 中文
+1. basic_concepts(url:https://github.com/tianyinglan/zero_knowledge_interview/blob/main/1.basic_concepts_%E4%B8%AD%E6%96%87.md)
 
 # self-introduction
 I am an experienced software engineer with 10 years of professional experience, including 3+ years specializing in zero-knowledge proof (ZK) systems, and I am excited to explore opportunities where I can contribute my expertise to cutting-edge privacy and security solutions.
