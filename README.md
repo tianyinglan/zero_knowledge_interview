@@ -3,13 +3,26 @@
 2. [zk_framework_compairson](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/2.zk_framwork_compairson.md)
 3. [psc_piop](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/3.pcs_piop.md)
 4. [crs_srs](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/4.crs_srs.md)
+5. [elliptic_curve]()
+6. [plonkish_air]()
+7. [fiat_shamir_and_schnorr]()
+8. [kzg_fri_ipa]()
+9. [fri]()
+10. [kzg]()
+11. [ipa]()
 
 # 中文版本
 1. [基本概念](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/1.basic_concepts_%E4%B8%AD%E6%96%87.md)
 2. [zk方案对比](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/2.zk%E6%96%B9%E6%A1%88%E5%AF%B9%E6%AF%94.md)
 3. [pcs_piop](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/3.pcs_piop_%E4%B8%AD%E6%96%87.md)
 4. [crs_src](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/4.crs_srs_%E4%B8%AD%E6%96%87.md)
-
+5. [椭圆曲线的几个基本概念]()
+6. [plonkish_air]()
+7. [fiat_shamir和schnorr]()
+8. [kzg_fri_ipa区别]()
+9. [fri]()
+10. [kzg]()
+11. [ipa]()
 
 # tips
 I just find a zk job, if you can provide a job for me, please contact me at 12210240100@fudan.edu.cn or [linkedin](https://www.linkedin.com/in/%E9%A2%96%E5%85%B0-%E7%94%B0-664433342/).
