@@ -1,31 +1,31 @@
 # zero_knowledge_interview
 This project aims to explain various concepts of zero - knowledge proof in the most straightforward way, especially for interview preparation. We avoid complex mathematical formulas, enabling you to easily understand the core ideas of zero - knowledge proof. In the future, we will release a git repository that includes the analysis of complex mathematical formulas to meet the needs of further in - depth study.
 
-1. [basic_concepts](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/1.basic_concepts.md)
-2. [zk_framework_compairson](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/2.zk_framwork_compairson.md)
-3. [psc_piop](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/3.pcs_piop.md)
-4. [crs_srs](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/4.crs_srs.md)
-5. [elliptic_curve](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/5.elliptic_curve.md)
-6. [plonkish_air](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/6.plonkish_air.md)
-7. [fiat_shamir_and_schnorr](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/7.fiat_shamir_and_schnorr.md)
-8. [kzg_fri_ipa](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/8.kzg_fri_ipa.md)
-9. [fri](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/9.fri.md)
-10. [kzg](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/10.kzg.md)
-11. [ipa](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/11.ipa.md)
+1. [basic_concepts](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/1.basic_concepts.md)
+2. [zk_framework_compairson](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/2.zk_framwork_compairson.md)
+3. [psc_piop](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/3.pcs_piop.md)
+4. [crs_srs](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/4.crs_srs.md)
+5. [elliptic_curve](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/5.elliptic_curve.md)
+6. [plonkish_air](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/6.plonkish_air.md)
+7. [fiat_shamir_and_schnorr](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/7.fiat_shamir_and_schnorr.md)
+8. [kzg_fri_ipa](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/8.kzg_fri_ipa.md)
+9. [fri](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/9.fri.md)
+10. [kzg](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/10.kzg.md)
+11. [ipa](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/11.ipa.md)
 
 # 中文版本
 本项目旨在以最通俗易懂的方式阐述零知识证明的各个概念，特别适用于面试准备。我们避开了复杂的数学公式，让你能够轻松理解零知识证明的核心思想。后续，我们会推出包含复杂数学公式解析的 git 仓库，满足进一步深入学习的需求。
-1. [基本概念](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/1.basic_concepts_%E4%B8%AD%E6%96%87.md)
-2. [zk方案对比](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/2.zk%E6%96%B9%E6%A1%88%E5%AF%B9%E6%AF%94.md)
-3. [pcs_piop](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/3.pcs_piop_%E4%B8%AD%E6%96%87.md)
-4. [crs_src](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/4.crs_srs_%E4%B8%AD%E6%96%87.md)
-5. [椭圆曲线的几个基本概念](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/5.%E6%A4%AD%E5%9C%86%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%87%A0%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
-6. [plonkish_air](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/6.plonkish_air_%E4%B8%AD%E6%96%87.md)
-7. [fiat_shamir和schnorr](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/7.fiat_shamir%E5%92%8Cschnorr_%E4%B8%AD%E6%96%87.md)
-8. [kzg_fri_ipa区别](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/8.kzg_fri_ipa%E5%8C%BA%E5%88%AB.md)
-9. [fri](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/9.fri_%E4%B8%AD%E6%96%87.md)
-10. [kzg](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/10.kzg_%E4%B8%AD%E6%96%87.md)
-11. [ipa](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/11.ipa.md)
+1. [基本概念](https://github.com/tianyinglan/zero_knowledge_interview/tree/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/1.basic_concepts_%E4%B8%AD%E6%96%87.md)
+2. [zk方案对比](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/2.zk%E6%96%B9%E6%A1%88%E5%AF%B9%E6%AF%94.md)
+3. [pcs_piop](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/3.pcs_piop_%E4%B8%AD%E6%96%87.md)
+4. [crs_src](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/4.crs_srs_%E4%B8%AD%E6%96%87.md)
+5. [椭圆曲线的几个基本概念](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/5.%E6%A4%AD%E5%9C%86%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%87%A0%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
+6. [plonkish_air](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/6.plonkish_air_%E4%B8%AD%E6%96%87.md)
+7. [fiat_shamir和schnorr](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/7.fiat_shamir%E5%92%8Cschnorr_%E4%B8%AD%E6%96%87.md)
+8. [kzg_fri_ipa区别](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/8.kzg_fri_ipa%E5%8C%BA%E5%88%AB.md)
+9. [fri](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/9.fri_%E4%B8%AD%E6%96%87.md)
+10. [kzg](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/10.kzg_%E4%B8%AD%E6%96%87.md)
+11. [ipa](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/11.ipa.md)
 
 # tips
 I just find a zk job, if you can provide a job for me, please contact me at 12210240100@fudan.edu.cn or [linkedin](https://www.linkedin.com/in/%E9%A2%96%E5%85%B0-%E7%94%B0-664433342/).
