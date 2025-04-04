@@ -1,4 +1,6 @@
 # zero_knowledge_interview
+This project aims to explain various concepts of zero - knowledge proof in the most straightforward way, especially for interview preparation. We avoid complex mathematical formulas, enabling you to easily understand the core ideas of zero - knowledge proof. In the future, we will release a git repository that includes the analysis of complex mathematical formulas to meet the needs of further in - depth study.
+
 1. [basic_concepts](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/1.basic_concepts.md)
 2. [zk_framework_compairson](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/2.zk_framwork_compairson.md)
 3. [psc_piop](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/3.pcs_piop.md)
@@ -12,6 +14,7 @@
 11. [ipa](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/11.ipa.md)
 
 # 中文版本
+本项目旨在以最通俗易懂的方式阐述零知识证明的各个概念，特别适用于面试准备。我们避开了复杂的数学公式，让你能够轻松理解零知识证明的核心思想。后续，我们会推出包含复杂数学公式解析的 git 仓库，满足进一步深入学习的需求。
 1. [基本概念](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/1.basic_concepts_%E4%B8%AD%E6%96%87.md)
 2. [zk方案对比](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/2.zk%E6%96%B9%E6%A1%88%E5%AF%B9%E6%AF%94.md)
 3. [pcs_piop](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/3.pcs_piop_%E4%B8%AD%E6%96%87.md)
