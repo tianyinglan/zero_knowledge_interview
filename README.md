@@ -1,9 +1,14 @@
 # zero_knowledge_interview
 1. [basic_concepts](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/1.basic_concepts.md)
-
+2. [zk_framework_compairson](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/2.zk_framwork_compairson.md)
+3. [psc_piop](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/3.pcs_piop.md)
+4. [crs_srs](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/4.crs_srs.md)
 
 # 中文版本
 1. [基本概念](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/1.basic_concepts_%E4%B8%AD%E6%96%87.md)
+2. [zk方案对比](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/2.zk%E6%96%B9%E6%A1%88%E5%AF%B9%E6%AF%94.md)
+3. [pcs_piop](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/3.pcs_piop_%E4%B8%AD%E6%96%87.md)
+4. [crs_src](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/4.crs_srs_%E4%B8%AD%E6%96%87.md)
 
 # self-introduction
 I am an experienced software engineer with 10 years of professional experience, including 3+ years specializing in zero-knowledge proof (ZK) systems, and I am excited to explore opportunities where I can contribute my expertise to cutting-edge privacy and security solutions.
