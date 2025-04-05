@@ -41,6 +41,19 @@ This project aims to explain various concepts of zero - knowledge proof in the m
 17. [btc欺诈证明](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/17.btc%E6%AC%BA%E8%AF%88%E8%AF%81%E6%98%8E.md)
 18. [goldilocks_mersenne31_babybear](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/18.Goldilocks_mersenne31_babybear%E5%B0%8F%E5%9F%9F.md)
 19. [circle_starks](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/19.circle_starks.md)
+
+## [rust interview]()
+## [rust面试中文]()
+
+## zkp accelerate
+1. [fft]()
+2. [msm]()
+3. [cuda]() 
+## zkp硬件加速
+1. [fft]()
+2. [msm]()
+3. [cuda]() 
+
 # tips
 I just find a zk job, if you can provide a job for me, please contact me at 12210240100@fudan.edu.cn or [linkedin](https://www.linkedin.com/in/%E9%A2%96%E5%85%B0-%E7%94%B0-664433342/).
 
