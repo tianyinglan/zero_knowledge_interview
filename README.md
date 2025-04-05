@@ -17,9 +17,9 @@ This project aims to explain various concepts of zero - knowledge proof in the m
 14. [nova](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/14.nova.md)
 15. [aggregation and recursive proof](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/15.agg_and_recursive.md)
 16. [zkevm](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/16.zkevm.md)
-17. [btc_fraud_proof]()
-18. [circle_starks]()
-
+17. [btc_fraud_proof](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/17.btc_fraud_proof.md)
+18. [circle_starks](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/18.Goldilocks_mersenne31_babybear.md)
+19. [circle_starks](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/19.circle_starks.md)
 # 中文版本
 本项目旨在以最通俗易懂的方式阐述零知识证明的各个概念，特别适用于面试准备。我们避开了复杂的数学公式，让你能够轻松理解零知识证明的核心思想。后续，我们会推出包含复杂数学公式解析的 git 仓库，满足进一步深入学习的需求。
 1. [基本概念](https://github.com/tianyinglan/zero_knowledge_interview/tree/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/1.basic_concepts_%E4%B8%AD%E6%96%87.md)
@@ -38,8 +38,9 @@ This project aims to explain various concepts of zero - knowledge proof in the m
 14. [nova](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/14.nova_%E4%B8%AD%E6%96%87.md)
 15. [聚合证明和递归证明](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/15.%E8%81%9A%E5%90%88%E8%AF%81%E6%98%8E%E5%92%8C%E9%80%92%E5%BD%92%E8%AF%81%E6%98%8E.md)
 16. [zkevm](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/16.zkevm_%E4%B8%AD%E6%96%87.md)
-17. [btc欺诈证明]()
-18. [circle_starks]()
+17. [btc欺诈证明](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/17.btc%E6%AC%BA%E8%AF%88%E8%AF%81%E6%98%8E.md)
+18. [circle_starks](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/18.Goldilocks_mersenne31_babybear%E5%B0%8F%E5%9F%9F.md)
+19. [circle_starks](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/19.circle_starks.md)
 # tips
 I just find a zk job, if you can provide a job for me, please contact me at 12210240100@fudan.edu.cn or [linkedin](https://www.linkedin.com/in/%E9%A2%96%E5%85%B0-%E7%94%B0-664433342/).
 
