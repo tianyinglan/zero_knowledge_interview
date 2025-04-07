@@ -20,6 +20,9 @@ This project aims to explain various concepts of zero - knowledge proof in the m
 17. [btc_fraud_proof](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/17.btc_fraud_proof.md)
 18. [goldilocks_mersenne31_babybear](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/18.Goldilocks_mersenne31_babybear.md)
 19. [circle_starks](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/19.circle_starks.md)
+20. [sumcheck](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/24.sumcheck.md)
+21. [gkr](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/25.gkr.md)
+
 # 中文版本
 本项目旨在以最通俗易懂的方式阐述零知识证明的各个概念，特别适用于面试准备。我们避开了复杂的数学公式，让你能够轻松理解零知识证明的核心思想。后续，我们会推出包含复杂数学公式解析的 git 仓库，满足进一步深入学习的需求。
 1. [基本概念](https://github.com/tianyinglan/zero_knowledge_interview/tree/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/1.basic_concepts_%E4%B8%AD%E6%96%87.md)
@@ -41,18 +44,27 @@ This project aims to explain various concepts of zero - knowledge proof in the m
 17. [btc欺诈证明](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/17.btc%E6%AC%BA%E8%AF%88%E8%AF%81%E6%98%8E.md)
 18. [goldilocks_mersenne31_babybear](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/18.Goldilocks_mersenne31_babybear%E5%B0%8F%E5%9F%9F.md)
 19. [circle_starks](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/19.circle_starks.md)
+20. [sumcheck](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/24.sumcheck_%E4%B8%AD%E6%96%87.md)
+21. [gkr](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/25.gkr_%E4%B8%AD%E6%96%87.md)
 
-## [rust interview]()
-## [rust面试中文]()
+## [rust interview](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/20.rust.md)
+## [rust面试中文](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/20.rust_%E4%B8%AD%E6%96%87.md)
 
 ## zkp accelerate
-1. [fft]()
-2. [msm]()
-3. [cuda]() 
+1. [fft](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/21.fft.md)
+2. [msm](http://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/22.msm.md)
+3. [cuda](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/23.cuda.md)
+
 ## zkp硬件加速
-1. [fft]()
-2. [msm]()
-3. [cuda]() 
+1. [fft](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/21.fft_%E4%B8%AD%E6%96%87.md)
+2. [msm](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/22.msm_%E4%B8%AD%E6%96%87.md)
+3. [cuda](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/23.cuda_%E4%B8%AD%E6%96%87.md) 
+
+## [blockchain](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/26.blockchain.md)
+## [区块链](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/26.%E5%8C%BA%E5%9D%97%E9%93%BE.md)
+
+## [machine_learning](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/documents_en/27.machine_learning.md)
+## [机器学习](https://github.com/tianyinglan/zero_knowledge_interview/blob/main/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/27.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
 
 # tips
 I just find a zk job, if you can provide a job for me, please contact me at 12210240100@fudan.edu.cn or [linkedin](https://www.linkedin.com/in/%E9%A2%96%E5%85%B0-%E7%94%B0-664433342/).
